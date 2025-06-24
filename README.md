@@ -12,7 +12,14 @@ To analyze a set of delivery addresses, manually verify their accuracy using Goo
 
 ## 📁 Folder Structure
 
-
+Delivery-Address-Audit-System/
+├── address_data.csv # Sample delivery address dataset
+├── audit_report.xlsx # Address audit results with classification and summary dashboard
+├── screenshots/ # Screenshots of Google Maps verifications
+│ └── sample_map_check.png
+├── scripts/ # (Optional) Python scripts for data cleaning
+│ └── address_cleaner.py
+└── README.md # Project documentation (this file)
 
 ## 📊 Dataset Overview
 
